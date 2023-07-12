@@ -37,17 +37,17 @@
 + [Patterns print: Diamond shape with characters](https://github.com/dinii0/Random-Assembly-MIPS-Projects/blob/main/patterns_diamond_characters.asm):
   - A program that prints characters in the shape of a diamond. It may look something like this:
     
-    <img src= "https://github.com/dinii0/Random-Assembly-MIPS-Projects/assets/123166182/632720fe-b76d-4233-bca6-e26efbd8f729">
+    ![Screenshot 2023-07-12 163015](https://github.com/dinii0/Random-Assembly-MIPS-Projects/assets/123166182/713acb49-d902-4dbb-9aa4-d430149974a6)
 
 + [Patterns print: Diamond shape with numbers](https://github.com/dinii0/Random-Assembly-MIPS-Projects/blob/main/patterns_diamond_numerical.asm):
   - A program that prints numbers in the shape of a diamond. It may look something like this:
  
-    <img src= "https://github.com/dinii0/Random-Assembly-MIPS-Projects/assets/123166182/f836118a-f924-469a-a098-99141a8c7906">
+    ![Screenshot 2023-07-12 163404](https://github.com/dinii0/Random-Assembly-MIPS-Projects/assets/123166182/e9e85234-56a6-4d31-b957-e700e49a8fae)
     
 + [Patterns print: Pascal triangle](https://github.com/dinii0/Random-Assembly-MIPS-Projects/blob/main/patterns_pascal_triangle.asm):
   - A program that prints [Pascal's Triangle](https://study.com/academy/lesson/pascals-triangle-definition-and-use-with-polynomials.html#:~:text=Pascal's%20triangle%20is%20a%20pattern,get%20the%20next%20number%20below.) pattern. It may look something like this
 
-    <img src= "https://github.com/dinii0/Random-Assembly-MIPS-Projects/assets/123166182/673e74bd-2c23-466e-b52b-d737c61d88b0">
+    ![Screenshot 2023-07-12 163512](https://github.com/dinii0/Random-Assembly-MIPS-Projects/assets/123166182/f3bd1871-0f1b-4daf-9175-f0340fc47656)
 
 + [Pythagorian triangles](https://github.com/dinii0/Random-Assembly-MIPS-Projects/blob/main/pythagorian_triangles.asm):
   - Small program where it take 3 numbers from the user, and it checks them if they can form a [Pythagorian Triangle](https://en.wikipedia.org/wiki/Pythagorean_triple).
