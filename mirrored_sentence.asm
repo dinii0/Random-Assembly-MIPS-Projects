@@ -1,7 +1,7 @@
-        .data
-str1:   .asciiz "Write a random sentence you would like to mirror it: "
-str2:   .asciiz "Your mirrored word looks like this: "
-space1: .space 64
+.data
+str1:   .asciiz "Write a sentence you would like to mirror: "
+str2:   .asciiz "Your mirrored sentence looks like this: "
+space1: .space 256
         .globl main
         .text
 
@@ -12,7 +12,7 @@ main:
     
     li $v0, 8
     la $a0, space1
-    li $a1, 64
+    li $a1, 256
     syscall
 
     move $t0, $a0
