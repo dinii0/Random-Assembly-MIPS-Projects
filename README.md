@@ -53,6 +53,8 @@
   - Small program where it take 3 numbers from the user, and it checks them if they can form a [Pythagorian Triangle](https://en.wikipedia.org/wiki/Pythagorean_triple).
 + [Replace characters](https://github.com/dinii0/Random-Assembly-MIPS-Projects/blob/main/replace_characters.asm):
   - Small program where it take 3 inputs from the user (1 string, and 2 characters), and it replaces all characters in that string with the other character.
+
+
  
 <table align="center">
   <tr>
@@ -80,3 +82,4 @@
     </td>
   </tr>
 </table>
+
