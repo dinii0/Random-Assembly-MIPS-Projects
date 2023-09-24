@@ -64,6 +64,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/dinii0/Random-Assembly-MIPS-Projects?color=yellow) 
 
 ## *You can give me a star!*
-![dinii0's github stats](https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/dinii0/Random-Assembly-MIPS-Projects/)
+<p align="center">
+   
+   <img src="https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true" alt="dinii0's GitHub Stats">
+   
+   [![ForTheBadge built-with-love](https://www.builtwithlovellc.com/wp-content/uploads/2022/01/cropped-built-with-love-logo-5.png)](https://github.com/dinii0/Random-Assembly-MIPS-Projects/)
+   
+</p>
