@@ -54,6 +54,7 @@
 + [Replace characters](https://github.com/dinii0/Random-Assembly-MIPS-Projects/blob/main/replace_characters.asm):
   - Small program where it take 3 inputs from the user (1 string, and 2 characters), and it replaces all characters in that string with the other character.
  
+<p align="center">
 ## *Issues, pull requests and repo*
 [![GitHub issues](https://img.shields.io/github/issues/dinii0/Random-Assembly-MIPS-Projects)](https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed/dinii0/Random-Assembly-MIPS-Projects)](https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues?q=is%3Aissue+is%3Aclosed)
@@ -64,7 +65,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/dinii0/Random-Assembly-MIPS-Projects?color=yellow) 
 
 ## *You can give me a star!*
-<p align="center">
    
    <img src="https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true" alt="dinii0's GitHub Stats">
    
