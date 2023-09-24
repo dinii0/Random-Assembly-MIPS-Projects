@@ -54,20 +54,29 @@
 + [Replace characters](https://github.com/dinii0/Random-Assembly-MIPS-Projects/blob/main/replace_characters.asm):
   - Small program where it take 3 inputs from the user (1 string, and 2 characters), and it replaces all characters in that string with the other character.
  
-<p align="center">
-## *Issues, pull requests and repo*
-[![GitHub issues](https://img.shields.io/github/issues/dinii0/Random-Assembly-MIPS-Projects)](https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed/dinii0/Random-Assembly-MIPS-Projects)](https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues?q=is%3Aissue+is%3Aclosed)
-
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/dinii0/Random-Assembly-MIPS-Projects)](https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls) 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/dinii0/Random-Assembly-MIPS-Projects)](https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls?q=is%3Apr+is%3Aclosed)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/dinii0/Random-Assembly-MIPS-Projects?color=yellow) 
-
-## *You can give me a star!*
-   
-   <img src="https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true" alt="dinii0's GitHub Stats">
-   
-   [![ForTheBadge built-with-love](https://www.builtwithlovellc.com/wp-content/uploads/2022/01/cropped-built-with-love-logo-5.png)](https://github.com/dinii0/Random-Assembly-MIPS-Projects/)
-   
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h2>Issues, pull requests and repo</h2>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues">
+        <img src="https://img.shields.io/github/issues/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub issues">
+      </a>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues?q=is%3Aissue+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-closed/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub issues closed">
+      </a>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls">
+        <img src="https://img.shields.io/github/issues-pr/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub pull requests">
+      </a>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls?q=is%3Apr+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-pr-closed/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub pull requests closed">
+      </a>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true" alt="dinii0's GitHub Stats">
+      <br>
+      <h2>You can give me a star!</h2>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/">
+        <img src="https://www.builtwithlovellc.com/wp-content/uploads/2022/01/cropped-built-with-love-logo-5.png" alt="Built with Love">
+      </a>
+    </td>
+  </tr>
+</table>
